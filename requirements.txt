@@ -1,0 +1,7 @@
+sphinx
+sphinx-gallery
+sphinxcontrib-video
+matplotlib
+napari
+napari-animation
+
